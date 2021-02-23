@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angular-jumpstart App', () => {
+describe('Cliente-Manager App', () => {
   let page: AppPage;
 
   beforeEach(() => {
