@@ -12,7 +12,7 @@ A stack escolhida foi Angular, Typescript e node.js. Também foram feitos testes
 
 1. Run `npm install` no diretório
 
-1. Run `npm install -g @angular/cli` no diretório
+1. Run `npm install -g @angular/cli` no diretório ou se tiver erro de permissão `sudo npm install -g @angular/cli`
 
 1. Run `ng build --watch` 
 
